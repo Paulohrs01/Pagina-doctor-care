@@ -10,7 +10,7 @@ Projeto realizado no evento NLW Return - Origin from @Rocketseat
 <br>
 
 # Preview Mobile
-<img src="./readme-file/projeto-doctorcare-mobile.gif" alt="preview-projeto-doctorcare-mobile"/>
+<img src="./readme-file/projeto-doctorcare-mobile.gif" alt="preview do projeto DoctorCare mobile em gif"/>
 
 <br>
 
