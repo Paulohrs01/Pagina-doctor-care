@@ -1,18 +1,24 @@
 # DoctorCare 
 Projeto realizado no evento NLW Return - Origin from @Rocketseat
 
-# Preview
+## Preview Desktop and Mobile
 
 <div align="center">
-  <img src="https://i.ibb.co/8cxMtwT/Capa.png" alt="doctorcare-front cover"/>
+  <img src="./readme-file/projeto-doctorcare.gif" alt="doctorcare-front cover"/>
 </div>
 
-# Languages and lib used
+<br>
+
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JS and ScrollReveal
 
-# link do projeto:
 
-https://pablovianas.github.io/nlw-return-origin/
-# nlw-pagina-doctor-care
+<br>
+
+---
+## link do projeto:
+
+https://paulohrs01.github.io/nlw-pagina-doctor-care/
+
