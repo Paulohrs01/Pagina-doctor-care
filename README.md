@@ -3,15 +3,15 @@ Projeto realizado no evento NLW Return - Origin from @Rocketseat
 
 <br>
 
-# Preview Desktop
+## Preview Desktop
 
-<img src="./readme-file/projeto-doctorcare.gif" alt="preview-projeto-doctorcare-desktop"/>
+<img src="./readme-file/projeto-doctorcare-desktop.gif" alt="preview-projeto-doctorcare-desktop"/>
 
 <br>
 
-# Preview Mobile
-<img src="./readme-file/projeto-doctorcare-mobile.gif" alt="preview do projeto DoctorCare mobile em gif"/>
-
+## Preview Mobile
+<img src="./readme-file/projeto-doctorcare-mobile.gif"
+height="350px" alt="preview do projeto DoctorCare mobile em gif"/>
 <br>
 
 ## Tecnologias utilizadas

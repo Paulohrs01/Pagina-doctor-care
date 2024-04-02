@@ -153,6 +153,8 @@ nav .wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
+  background-color: var(--brand-beige);
 }
 
 nav.scroll {
